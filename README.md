@@ -5,6 +5,8 @@ This is a macOS Ventura EFI for the Lenovo ThinkPad T480s, with support for Inte
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Support will not be offered if you get macOS from any other source.*** https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
 
+![Screenshot](https://github.com/Lost-Entrepreneur439/thinkpad-t480s-hackintosh/blob/main/untitled.png)
+
 # Specs of my specific unit:
 - CPU: Intel Core i5-8350u
 - GPU: Intel UHD Graphics 620
