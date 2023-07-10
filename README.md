@@ -27,3 +27,14 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 - Security -> Intel(R) SGX -> Intel (R) SGX Control -> Disabled
 - Startup -> UEFI/Legacy Boot -> UEFI Only
 - Startup -> CSM Support -> No
+
+# Credits
+[Acidanthera](https://github.com/acidanthera) -- Made OpenCore, AppleALC, BlueToolFixup, BrightnessKeys, IntelMausi, Lilu, NVMeFix, SMCBatteryManager, SMCProcessor, SMCSuperIO, VirtualSMC, VoodooPS2Controller and WhateverGreen
+[OpenIntelWireless](https://github.com/OpenIntelWireless) -- Made Airportitlwm, IntelBluetoothFirmware and IntelBTPatcher
+[Avery Black](https://github.com/1Revenger1) -- Made ECEnabler
+[FireWolf](https://github.com/0xFireWolf) -- Made GenericCardReaderFriend
+[USBToolBox](https://github.com/USBToolBox) -- Made USBToolBox and UTBMap
+[VoodooSMBus](https://github.com/VoodooSMBus) -- Made VoodooSMBus
+[zhen-zen](https://github.com/zhen-zen) -- Made YogaSMC
+[CorpNewt](https://github.com/corpnewt) -- Made SSDTTime, which was used to make SSDTs.
+[dortania](https://github.com/dortania) -- Made the OpenCore Install Guide which was used to make this EFI.
