@@ -286,7 +286,7 @@
 			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
 				<key>AAPL,ig-platform-id</key>
-				<data>AAAWWQ==</data>
+				<data>AADAhw==</data>
 				<key>device-id</key>
 				<data>FlkAAA==</data>
 				<key>framebuffer-con2-enable</key>
