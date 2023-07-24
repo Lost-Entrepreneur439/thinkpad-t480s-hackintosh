@@ -1,7 +1,7 @@
 # thinkpad-t480s-hackintosh
  A prebuilt OpenCore EFI for macOS Ventura on the Lenovo ThinkPad T480s
 
-This is a macOS Ventura EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi cards. 13.4.1a working, with OpenCore 0.9.3 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! Remember to change your SMBIOS data too.
+This is a macOS Ventura EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi cards. 13.5 working, with OpenCore 0.9.3 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! Remember to change your SMBIOS data too.
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Support will not be offered if you get macOS from any other source.*** https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos
 
