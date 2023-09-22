@@ -40,3 +40,4 @@ Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Su
 - [CorpNewt](https://github.com/corpnewt) -- Made SSDTTime, which was used to make SSDTs.
 - [dortania](https://github.com/dortania) -- Made the OpenCore Install Guide which was used to make this EFI.
 - [Mohamed A. Salah](https://github.com/m4salah) -- Made another T480s EFI which I used a part from to fix mine not working.
+- [ellnic](https://github.com/ellnic) -- Helped me fix Linux dualbooting
