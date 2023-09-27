@@ -1,7 +1,11 @@
 # thinkpad-t480s-hackintosh
- A prebuilt OpenCore EFI for macOS Ventura on the Lenovo ThinkPad T480s
+A prebuilt OpenCore EFI for macOS on the Lenovo ThinkPad T480s
 
-This is a macOS Ventura EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi cards. 13.5.2 working, with OpenCore 0.9.4 and fully up to date kexts. Remember to keep your kexts and OpenCore up to date! Remember to change your SMBIOS data too.
+**WARNING! If running Sonoma, ethernet IS required for initial half of setup if you use an internet-based installer. You will need to install Heliport for Wi-Fi. Ventura users can use Wi-Fi with no issues.**
+
+Use 1.x releases for Ventura, 2.x releases for Sonoma.
+
+This is a macOS EFI for the Lenovo ThinkPad T480s, with support for Intel Wi-Fi cards. Ventura and Sonoma compatible.
 
 Follow the "Downloading macOS" section in the Dortania guide to get macOS. ***Support will not be offered if you get macOS from any other source.*** https://dortania.github.io/OpenCore-Install-Guide/installer-guide/windows-install.html#downloading-macos. After installing macOS, you will need to disable force clicking, as by default macOS will register all clicks as force clicks (System Settings -> Trackpad -> Uncheck "Force Click and haptic feedback")
 
