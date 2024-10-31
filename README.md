@@ -1,3 +1,6 @@
+**THIS HAS BEEN DISCONTINUED!** I no longer have the T480s so I will not be updating this EFI anymore, and it has been archived.
+
+
 # thinkpad-t480s-hackintosh
 A prebuilt OpenCore EFI for macOS on the Lenovo ThinkPad T480s
 
